@@ -21,6 +21,7 @@ class Extractor(object):
         result['phone'] = phone_number
         if re.search(self.addr_sign_pattern, message) or re.search(self.addr_abbr_pattern, message):
             result["address"] = message
+        # todo: match by name and score by match
         return result
 
 
