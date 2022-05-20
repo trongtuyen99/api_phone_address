@@ -13,14 +13,22 @@ class Extractor(object):
         """
         extract phone number and address
         :param message: string, input message
-        :return: {"phone":str, "address":str} form message
+        :return: {
+                  "set_attributes": {
+                    "ship_address": "some value",
+                    "phone_number": "0xxx"
+                  }
+                } 
+                form message
         """
         result = {
-                    "phone": "",
-                    "address": ""
+                  "set_attributes": {
+                    "ship_address": "",
+                    "phone_number": ""
                   }
+                }
         phone_number = re.findall(self.phone_pattern, message)
-        result['phone'] = phone_number
+        result["set_attributes"]['phone_number'] = phone_number
         if len(phone_number) > 0:
             for phone in phone_number:
                 message = message.replace(phone, " ")
@@ -81,7 +89,7 @@ class Extractor(object):
         score += flag_match_province
         score_extra = len(message_no_sign) - len(message_no_sign_copy)
         if score > 2 and score_extra > 6:
-            result["address"] = message
+            result["set_attributes"]["ship_address"] = message
         return result
 
     def __init_complex_pattern__(self):
