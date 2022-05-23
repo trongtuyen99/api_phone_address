@@ -1,6 +1,6 @@
-﻿"id","pattern","is_active","type","prefix","label","priority"
+﻿id,pattern,is_active,type,prefix,label,priority
 1,(\d+) (ngo|ngach|duong|to),1,TEXT,số,NUMBER,3
-2,(\d+),1,STREET,số,NUMBER,3
+2,(\d+),0,STREET,số,NUMBER,3
 3,ngo (\d+)\s,1,TEXT,ngõ,LANE,1
 4,ngach (\d+)\s,1,TEXT,ngách,NICHE,2
 5,so (\d+),1,TEXT,số,NUMBER,3
@@ -13,3 +13,4 @@
 12,to dan pho so (\d+),0,TEXT,tổ dân phố,TDP,1
 13,to dan pho (\d+),0,TEXT,tổ dân phố,TDP,1
 14,nha (\d+),1,TEXT,số,NUMBER,3
+15,hem (\d+)\s,1,TEXT,hẻm,LANE,1

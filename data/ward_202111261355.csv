@@ -1,4 +1,4 @@
-﻿"id","_name","_prefix","_province_id","_district_id","sync_words","priority_sync_words"
+﻿id,_name,_prefix,_province_id,_district_id,sync_words,priority_sync_words
 1,An Phú Tây,Xã,1,1,an phu tay,xa an phu tay
 2,Bình Chánh,Xã,1,1,binh chanh,xa binh chanh
 3,Bình Hưng,Xã,1,1,binh hung,xa binh hung
@@ -25,26 +25,26 @@
 24,Bình Trị Đông B,Phường,1,2,binh tri dong b,phuong binh tri dong b
 25,Tân Tạo,Phường,1,2,tan tao,phuong tan tao
 26,Tân Tạo A,Phường,1,2,tan tao a,phuong tan tao a
-27,"1",Phường,1,3,"1",phuong 1
-28,"11",Phường,1,3,"11",phuong 11
-29,"12",Phường,1,3,"12",phuong 12
-30,"13",Phường,1,3,"13",phuong 13
-31,"14",Phường,1,3,"14",phuong 14
-32,"15",Phường,1,3,"15",phuong 15
-33,"17",Phường,1,3,"17",phuong 17
-34,"19",Phường,1,3,"19",phuong 19
-35,"2",Phường,1,3,"2",phuong 2
-36,"21",Phường,1,3,"21",phuong 21
-37,"22",Phường,1,3,"22",phuong 22
-38,"24",Phường,1,3,"24",phuong 24
-39,"25",Phường,1,3,"25",phuong 25
-40,"26",Phường,1,3,"26",phuong 26
-41,"27",Phường,1,3,"27",phuong 27
-42,"28",Phường,1,3,"28",phuong 28
-43,"3",Phường,1,3,"3",phuong 3
-44,"5",Phường,1,3,"5",phuong 5
-45,"6",Phường,1,3,"6",phuong 6
-46,"7",Phường,1,3,"7",phuong 7
+27,1,Phường,1,3,1,phuong 1
+28,11,Phường,1,3,11,phuong 11
+29,12,Phường,1,3,12,phuong 12
+30,13,Phường,1,3,13,phuong 13
+31,14,Phường,1,3,14,phuong 14
+32,15,Phường,1,3,15,phuong 15
+33,17,Phường,1,3,17,phuong 17
+34,19,Phường,1,3,19,phuong 19
+35,2,Phường,1,3,2,phuong 2
+36,21,Phường,1,3,21,phuong 21
+37,22,Phường,1,3,22,phuong 22
+38,24,Phường,1,3,24,phuong 24
+39,25,Phường,1,3,25,phuong 25
+40,26,Phường,1,3,26,phuong 26
+41,27,Phường,1,3,27,phuong 27
+42,28,Phường,1,3,28,phuong 28
+43,3,Phường,1,3,3,phuong 3
+44,5,Phường,1,3,5,phuong 5
+45,6,Phường,1,3,6,phuong 6
+46,7,Phường,1,3,7,phuong 7
 47,An Thới Đông,Xã,1,4,an thoi dong,xa an thoi dong
 48,Bình Khánh,Xã,1,4,binh khanh,xa binh khanh
 49,Cần Thạnh ,Phường,1,4,can thanh ,phuong can thanh 
@@ -75,22 +75,22 @@
 74,Trung Lập Hạ,Xã,1,5,trung lap ha,xa trung lap ha
 75,Trung Lập Hạ,Xã,1,5,trung lap ha,xa trung lap ha
 76,Trung Lập Thượng,Xã,1,5,trung lap thuong,xa trung lap thuong
-77,"1",Phường,1,6,"1",phuong 1
-78,"10",Phường,1,6,"10",phuong 10
-79,"11",Phường,1,6,"11",phuong 11
-80,"12",Phường,1,6,"12",phuong 12
-81,"13",Phường,1,6,"13",phuong 13
-82,"14",Phường,1,6,"14",phuong 14
-83,"15",Phường,1,6,"15",phuong 15
-84,"16",Phường,1,6,"16",phuong 16
-85,"17",Phường,1,6,"17",phuong 17
-86,"3",Phường,1,6,"3",phuong 3
-87,"4",Phường,1,6,"4",phuong 4
-88,"5",Phường,1,6,"5",phuong 5
-89,"6",Phường,1,6,"6",phuong 6
-90,"7",Phường,1,6,"7",phuong 7
-91,"8",Phường,1,6,"8",phuong 8
-92,"9",Phường,1,6,"9",phuong 9
+77,1,Phường,1,6,1,phuong 1
+78,10,Phường,1,6,10,phuong 10
+79,11,Phường,1,6,11,phuong 11
+80,12,Phường,1,6,12,phuong 12
+81,13,Phường,1,6,13,phuong 13
+82,14,Phường,1,6,14,phuong 14
+83,15,Phường,1,6,15,phuong 15
+84,16,Phường,1,6,16,phuong 16
+85,17,Phường,1,6,17,phuong 17
+86,3,Phường,1,6,3,phuong 3
+87,4,Phường,1,6,4,phuong 4
+88,5,Phường,1,6,5,phuong 5
+89,6,Phường,1,6,6,phuong 6
+90,7,Phường,1,6,7,phuong 7
+91,8,Phường,1,6,8,phuong 8
+92,9,Phường,1,6,9,phuong 9
 93, Đông Thạnh,Xã,1,7, dong thanh,xa  dong thanh
 94, Hóc Môn,Phường,1,7, hoc mon,phuong  hoc mon
 95,Bà Điểm,Phường,1,7,ba diem,phuong ba diem
@@ -110,23 +110,23 @@
 109,Phú Xuân,Xã,1,8,phu xuan,xa phu xuan
 110,Phước Kiển,Xã,1,8,phuoc kien,xa phuoc kien
 111,Phước Lộc,Xã,1,8,phuoc loc,xa phuoc loc
-112,"1",Phường,1,9,"1",phuong 1
-113,"10",Phường,1,9,"10",phuong 10
-114,"11",Phường,1,9,"11",phuong 11
-115,"12",Phường,1,9,"12",phuong 12
-116,"13",Phường,1,9,"13",phuong 13
-117,"14",Phường,1,9,"14",phuong 14
-118,"15",Phường,1,9,"15",phuong 15
-119,"17",Phường,1,9,"17",phuong 17
-120,"2",Phường,1,9,"2",phuong 2
-121,"25",Phường,1,9,"25",phuong 25
-122,"3",Phường,1,9,"3",phuong 3
-123,"4",Phường,1,9,"4",phuong 4
-124,"5",Phường,1,9,"5",phuong 5
-125,"6",Phường,1,9,"6",phuong 6
-126,"7",Phường,1,9,"7",phuong 7
-127,"8",Phường,1,9,"8",phuong 8
-128,"9",Phường,1,9,"9",phuong 9
+112,1,Phường,1,9,1,phuong 1
+113,10,Phường,1,9,10,phuong 10
+114,11,Phường,1,9,11,phuong 11
+115,12,Phường,1,9,12,phuong 12
+116,13,Phường,1,9,13,phuong 13
+117,14,Phường,1,9,14,phuong 14
+118,15,Phường,1,9,15,phuong 15
+119,17,Phường,1,9,17,phuong 17
+120,2,Phường,1,9,2,phuong 2
+121,25,Phường,1,9,25,phuong 25
+122,3,Phường,1,9,3,phuong 3
+123,4,Phường,1,9,4,phuong 4
+124,5,Phường,1,9,5,phuong 5
+125,6,Phường,1,9,6,phuong 6
+126,7,Phường,1,9,7,phuong 7
+127,8,Phường,1,9,8,phuong 8
+128,9,Phường,1,9,9,phuong 9
 129,Bến Nghé,Phường,1,10,ben nghe,phuong ben nghe
 130,Bến Thành,Phường,1,10,ben thanh,phuong ben thanh
 131,Cầu Kho,Phường,1,10,cau kho,phuong cau kho
@@ -137,37 +137,37 @@
 136,Nguyễn Thái Bình,Phường,1,10,nguyen thai binh,phuong nguyen thai binh
 137,Phạm Ngũ Lão,Phường,1,10,pham ngu lao,phuong pham ngu lao
 138,Tân Định,Phường,1,10,tan dinh,phuong tan dinh
-139,"1",Phường,1,11,"1",phuong 1
-140,"10",Phường,1,11,"10",phuong 10
-141,"11",Phường,1,11,"11",phuong 11
-142,"12",Phường,1,11,"12",phuong 12
-143,"13",Phường,1,11,"13",phuong 13
-144,"14",Phường,1,11,"14",phuong 14
-145,"15",Phường,1,11,"15",phuong 15
-146,"2",Phường,1,11,"2",phuong 2
-147,"3",Phường,1,11,"3",phuong 3
-148,"4",Phường,1,11,"4",phuong 4
-149,"5",Phường,1,11,"5",phuong 5
-150,"6",Phường,1,11,"6",phuong 6
-151,"7",Phường,1,11,"7",phuong 7
-152,"8",Phường,1,11,"8",phuong 8
-153,"9",Phường,1,11,"9",phuong 9
-154,"1",Phường,1,12,"1",phuong 1
-155,"10",Phường,1,12,"10",phuong 10
-156,"11",Phường,1,12,"11",phuong 11
-157,"12",Phường,1,12,"12",phuong 12
-158,"13",Phường,1,12,"13",phuong 13
-159,"14",Phường,1,12,"14",phuong 14
-160,"15",Phường,1,12,"15",phuong 15
-161,"16",Phường,1,12,"16",phuong 16
-162,"2",Phường,1,12,"2",phuong 2
-163,"3",Phường,1,12,"3",phuong 3
-164,"4",Phường,1,12,"4",phuong 4
-165,"5",Phường,1,12,"5",phuong 5
-166,"6",Phường,1,12,"6",phuong 6
-167,"7",Phường,1,12,"7",phuong 7
-168,"8",Phường,1,12,"8",phuong 8
-169,"9",Phường,1,12,"9",phuong 9
+139,1,Phường,1,11,1,phuong 1
+140,10,Phường,1,11,10,phuong 10
+141,11,Phường,1,11,11,phuong 11
+142,12,Phường,1,11,12,phuong 12
+143,13,Phường,1,11,13,phuong 13
+144,14,Phường,1,11,14,phuong 14
+145,15,Phường,1,11,15,phuong 15
+146,2,Phường,1,11,2,phuong 2
+147,3,Phường,1,11,3,phuong 3
+148,4,Phường,1,11,4,phuong 4
+149,5,Phường,1,11,5,phuong 5
+150,6,Phường,1,11,6,phuong 6
+151,7,Phường,1,11,7,phuong 7
+152,8,Phường,1,11,8,phuong 8
+153,9,Phường,1,11,9,phuong 9
+154,1,Phường,1,12,1,phuong 1
+155,10,Phường,1,12,10,phuong 10
+156,11,Phường,1,12,11,phuong 11
+157,12,Phường,1,12,12,phuong 12
+158,13,Phường,1,12,13,phuong 13
+159,14,Phường,1,12,14,phuong 14
+160,15,Phường,1,12,15,phuong 15
+161,16,Phường,1,12,16,phuong 16
+162,2,Phường,1,12,2,phuong 2
+163,3,Phường,1,12,3,phuong 3
+164,4,Phường,1,12,4,phuong 4
+165,5,Phường,1,12,5,phuong 5
+166,6,Phường,1,12,6,phuong 6
+167,7,Phường,1,12,7,phuong 7
+168,8,Phường,1,12,8,phuong 8
+169,9,Phường,1,12,9,phuong 9
 170,An Phú Đông,Phường,1,13,an phu dong,phuong an phu dong
 171,Đông Hưng Thuận,Phường,1,13,dong hung thuan,phuong dong hung thuan
 172,Hiệp Thành,Phường,1,13,hiep thanh,phuong hiep thanh
@@ -190,64 +190,64 @@
 189,Cát Lái,Phường,1,14,cat lai,phuong cat lai
 190,Thảo Điền,Phường,1,14,thao dien,phuong thao dien
 191,Thủ Thiêm,Phường,1,14,thu thiem,phuong thu thiem
-192,"1",Phường,1,15,"1",phuong 1
-193,"10",Phường,1,15,"10",phuong 10
-194,"11",Phường,1,15,"11",phuong 11
-195,"12",Phường,1,15,"12",phuong 12
-196,"13",Phường,1,15,"13",phuong 13
-197,"14",Phường,1,15,"14",phuong 14
-198,"2",Phường,1,15,"2",phuong 2
-199,"3",Phường,1,15,"3",phuong 3
-200,"4",Phường,1,15,"4",phuong 4
-201,"5",Phường,1,15,"5",phuong 5
-202,"6",Phường,1,15,"6",phuong 6
-203,"7",Phường,1,15,"7",phuong 7
-204,"8",Phường,1,15,"8",phuong 8
-205,"9",Phường,1,15,"9",phuong 9
-206,"1",Phường,1,16,"1",phuong 1
-207,"10",Phường,1,16,"10",phuong 10
-208,"12",Phường,1,16,"12",phuong 12
-209,"13",Phường,1,16,"13",phuong 13
-210,"14",Phường,1,16,"14",phuong 14
-211,"15",Phường,1,16,"15",phuong 15
-212,"16",Phường,1,16,"16",phuong 16
-213,"18",Phường,1,16,"18",phuong 18
-214,"2",Phường,1,16,"2",phuong 2
-215,"3",Phường,1,16,"3",phuong 3
-216,"4",Phường,1,16,"4",phuong 4
-217,"5",Phường,1,16,"5",phuong 5
-218,"6",Phường,1,16,"6",phuong 6
-219,"8",Phường,1,16,"8",phuong 8
-220,"9",Phường,1,16,"9",phuong 9
-221,"1",Phường,1,17,"1",phuong 1
-222,"10",Phường,1,17,"10",phuong 10
-223,"11",Phường,1,17,"11",phuong 11
-224,"12",Phường,1,17,"12",phuong 12
-225,"13",Phường,1,17,"13",phuong 13
-226,"14",Phường,1,17,"14",phuong 14
-227,"15",Phường,1,17,"15",phuong 15
-228,"2",Phường,1,17,"2",phuong 2
-229,"3",Phường,1,17,"3",phuong 3
-230,"4",Phường,1,17,"4",phuong 4
-231,"5",Phường,1,17,"5",phuong 5
-232,"6",Phường,1,17,"6",phuong 6
-233,"7",Phường,1,17,"7",phuong 7
-234,"8",Phường,1,17,"8",phuong 8
-235,"9",Phường,1,17,"9",phuong 9
-236,"1",Phường,1,18,"1",phuong 1
-237,"10",Phường,1,18,"10",phuong 10
-238,"11",Phường,1,18,"11",phuong 11
-239,"12",Phường,1,18,"12",phuong 12
-240,"13",Phường,1,18,"13",phuong 13
-241,"14",Phường,1,18,"14",phuong 14
-242,"2",Phường,1,18,"2",phuong 2
-243,"3",Phường,1,18,"3",phuong 3
-244,"4",Phường,1,18,"4",phuong 4
-245,"5",Phường,1,18,"5",phuong 5
-246,"6",Phường,1,18,"6",phuong 6
-247,"7",Phường,1,18,"7",phuong 7
-248,"8",Phường,1,18,"8",phuong 8
-249,"9",Phường,1,18,"9",phuong 9
+192,1,Phường,1,15,1,phuong 1
+193,10,Phường,1,15,10,phuong 10
+194,11,Phường,1,15,11,phuong 11
+195,12,Phường,1,15,12,phuong 12
+196,13,Phường,1,15,13,phuong 13
+197,14,Phường,1,15,14,phuong 14
+198,2,Phường,1,15,2,phuong 2
+199,3,Phường,1,15,3,phuong 3
+200,4,Phường,1,15,4,phuong 4
+201,5,Phường,1,15,5,phuong 5
+202,6,Phường,1,15,6,phuong 6
+203,7,Phường,1,15,7,phuong 7
+204,8,Phường,1,15,8,phuong 8
+205,9,Phường,1,15,9,phuong 9
+206,1,Phường,1,16,1,phuong 1
+207,10,Phường,1,16,10,phuong 10
+208,12,Phường,1,16,12,phuong 12
+209,13,Phường,1,16,13,phuong 13
+210,14,Phường,1,16,14,phuong 14
+211,15,Phường,1,16,15,phuong 15
+212,16,Phường,1,16,16,phuong 16
+213,18,Phường,1,16,18,phuong 18
+214,2,Phường,1,16,2,phuong 2
+215,3,Phường,1,16,3,phuong 3
+216,4,Phường,1,16,4,phuong 4
+217,5,Phường,1,16,5,phuong 5
+218,6,Phường,1,16,6,phuong 6
+219,8,Phường,1,16,8,phuong 8
+220,9,Phường,1,16,9,phuong 9
+221,1,Phường,1,17,1,phuong 1
+222,10,Phường,1,17,10,phuong 10
+223,11,Phường,1,17,11,phuong 11
+224,12,Phường,1,17,12,phuong 12
+225,13,Phường,1,17,13,phuong 13
+226,14,Phường,1,17,14,phuong 14
+227,15,Phường,1,17,15,phuong 15
+228,2,Phường,1,17,2,phuong 2
+229,3,Phường,1,17,3,phuong 3
+230,4,Phường,1,17,4,phuong 4
+231,5,Phường,1,17,5,phuong 5
+232,6,Phường,1,17,6,phuong 6
+233,7,Phường,1,17,7,phuong 7
+234,8,Phường,1,17,8,phuong 8
+235,9,Phường,1,17,9,phuong 9
+236,1,Phường,1,18,1,phuong 1
+237,10,Phường,1,18,10,phuong 10
+238,11,Phường,1,18,11,phuong 11
+239,12,Phường,1,18,12,phuong 12
+240,13,Phường,1,18,13,phuong 13
+241,14,Phường,1,18,14,phuong 14
+242,2,Phường,1,18,2,phuong 2
+243,3,Phường,1,18,3,phuong 3
+244,4,Phường,1,18,4,phuong 4
+245,5,Phường,1,18,5,phuong 5
+246,6,Phường,1,18,6,phuong 6
+247,7,Phường,1,18,7,phuong 7
+248,8,Phường,1,18,8,phuong 8
+249,9,Phường,1,18,9,phuong 9
 250,Bình Thuận,Phường,1,19,binh thuan,phuong binh thuan
 251,Phú Mỹ,Phường,1,19,phu my,phuong phu my
 252,Phú Thuận,Phường,1,19,phu thuan,phuong phu thuan
@@ -258,22 +258,22 @@
 257,Tân Quy,Phường,1,19,tan quy,phuong tan quy
 258,Tân Thuận Đông,Phường,1,19,tan thuan dong,phuong tan thuan dong
 259,Tân Thuận Tây,Phường,1,19,tan thuan tay,phuong tan thuan tay
-260,"1",Phường,1,20,"1",phuong 1
-261,"10",Phường,1,20,"10",phuong 10
-262,"11",Phường,1,20,"11",phuong 11
-263,"12",Phường,1,20,"12",phuong 12
-264,"13",Phường,1,20,"13",phuong 13
-265,"14",Phường,1,20,"14",phuong 14
-266,"15",Phường,1,20,"15",phuong 15
-267,"16",Phường,1,20,"16",phuong 16
-268,"2",Phường,1,20,"2",phuong 2
-269,"3",Phường,1,20,"3",phuong 3
-270,"4",Phường,1,20,"4",phuong 4
-271,"5",Phường,1,20,"5",phuong 5
-272,"6",Phường,1,20,"6",phuong 6
-273,"7",Phường,1,20,"7",phuong 7
-274,"8",Phường,1,20,"8",phuong 8
-275,"9",Phường,1,20,"9",phuong 9
+260,1,Phường,1,20,1,phuong 1
+261,10,Phường,1,20,10,phuong 10
+262,11,Phường,1,20,11,phuong 11
+263,12,Phường,1,20,12,phuong 12
+264,13,Phường,1,20,13,phuong 13
+265,14,Phường,1,20,14,phuong 14
+266,15,Phường,1,20,15,phuong 15
+267,16,Phường,1,20,16,phuong 16
+268,2,Phường,1,20,2,phuong 2
+269,3,Phường,1,20,3,phuong 3
+270,4,Phường,1,20,4,phuong 4
+271,5,Phường,1,20,5,phuong 5
+272,6,Phường,1,20,6,phuong 6
+273,7,Phường,1,20,7,phuong 7
+274,8,Phường,1,20,8,phuong 8
+275,9,Phường,1,20,9,phuong 9
 276,Hiệp Phú,Phường,1,21,hiep phu,phuong hiep phu
 277,Long Bình,Phường,1,21,long binh,phuong long binh
 278,Long Phước,Phường,1,21,long phuoc,phuong long phuoc
@@ -287,21 +287,21 @@
 286,Tăng Nhơn Phú A,Phường,1,21,tang nhon phu a,phuong tang nhon phu a
 287,Tăng Nhơn Phú B,Phường,1,21,tang nhon phu b,phuong tang nhon phu b
 288,Trường Thạnh,Phường,1,21,truong thanh,phuong truong thanh
-289,"1",Phường,1,22,"1",phuong 1
-290,"10",Phường,1,22,"10",phuong 10
-291,"11",Phường,1,22,"11",phuong 11
-292,"12",Phường,1,22,"12",phuong 12
-293,"13",Phường,1,22,"13",phuong 13
-294,"14",Phường,1,22,"14",phuong 14
-295,"15",Phường,1,22,"15",phuong 15
-296,"2",Phường,1,22,"2",phuong 2
-297,"3",Phường,1,22,"3",phuong 3
-298,"4",Phường,1,22,"4",phuong 4
-299,"5",Phường,1,22,"5",phuong 5
-300,"6",Phường,1,22,"6",phuong 6
-301,"7",Phường,1,22,"7",phuong 7
-302,"8",Phường,1,22,"8",phuong 8
-303,"9",Phường,1,22,"9",phuong 9
+289,1,Phường,1,22,1,phuong 1
+290,10,Phường,1,22,10,phuong 10
+291,11,Phường,1,22,11,phuong 11
+292,12,Phường,1,22,12,phuong 12
+293,13,Phường,1,22,13,phuong 13
+294,14,Phường,1,22,14,phuong 14
+295,15,Phường,1,22,15,phuong 15
+296,2,Phường,1,22,2,phuong 2
+297,3,Phường,1,22,3,phuong 3
+298,4,Phường,1,22,4,phuong 4
+299,5,Phường,1,22,5,phuong 5
+300,6,Phường,1,22,6,phuong 6
+301,7,Phường,1,22,7,phuong 7
+302,8,Phường,1,22,8,phuong 8
+303,9,Phường,1,22,9,phuong 9
 304,Hiệp Tân,Phường,1,23,hiep tan,phuong hiep tan
 305,Hòa Thạnh,Phường,1,23,hoa thanh,phuong hoa thanh
 306,Phú Thạnh,Phường,1,23,phu thanh,phuong phu thanh
@@ -1498,7 +1498,7 @@
 1497,Cát Dài,Phường,7,101,cat dai,phuong cat dai
 1498,Đông Hải,Phường,7,101,dong hai,phuong dong hai
 1499,Dư Hàng,Phường,7,101,du hang,phuong du hang
-1500,Dư Hàng Kênh 	,Phường,7,101,du hang kenh 	,phuong du hang kenh 	
+1500,"Dư Hàng Kênh 	",Phường,7,101,"du hang kenh 	","phuong du hang kenh 	"
 1501,Hàng Kênh,Phường,7,101,hang kenh,phuong hang kenh
 1502,Hồ Nam,Phường,7,101,ho nam,phuong ho nam
 1503,Lam Sơn,Phường,7,101,lam son,phuong lam son
@@ -1705,9 +1705,9 @@
 1704,Mỹ Thạnh Bắc,Xã,8,111,my thanh bac,xa my thanh bac
 1705,Mỹ Thạnh Đông,Xã,8,111,my thanh dong,xa my thanh dong
 1706,Mỹ Thạnh Tây,Xã,8,111,my thanh tay,xa my thanh tay
-1707,"1",Phường,8,112,"1",phuong 1
-1708,"2",Phường,8,112,"2",phuong 2
-1709,"3",Phường,8,112,"3",phuong 3
+1707,1,Phường,8,112,1,phuong 1
+1708,2,Phường,8,112,2,phuong 2
+1709,3,Phường,8,112,3,phuong 3
 1710,Bình Hiệp,Xã,8,112,binh hiep,xa binh hiep
 1711,Bình Tân,Xã,8,112,binh tan,xa binh tan
 1712,Thạnh Hưng,Xã,8,112,thanh hung,xa thanh hung
@@ -1720,13 +1720,13 @@
 1719,Bình Thạnh,Xã,8,113,binh thanh,xa binh thanh
 1720,Tân Lập,Xã,8,113,tan lap,xa tan lap
 1721,Tân Thành,Xã,8,113,tan thanh,xa tan thanh
-1722,"1",Phường,8,114,"1",phuong 1
-1723,"2",Phường,8,114,"2",phuong 2
-1724,"3",Phường,8,114,"3",phuong 3
-1725,"4",Phường,8,114,"4",phuong 4
-1726,"5",Phường,8,114,"5",phuong 5
-1727,"6",Phường,8,114,"6",phuong 6
-1728,"7",Phường,8,114,"7",phuong 7
+1722,1,Phường,8,114,1,phuong 1
+1723,2,Phường,8,114,2,phuong 2
+1724,3,Phường,8,114,3,phuong 3
+1725,4,Phường,8,114,4,phuong 4
+1726,5,Phường,8,114,5,phuong 5
+1727,6,Phường,8,114,6,phuong 6
+1728,7,Phường,8,114,7,phuong 7
 1729,An Vĩnh Ngãi,Xã,8,114,an vinh ngai,xa an vinh ngai
 1730,Bình Tâm,Xã,8,114,binh tam,xa binh tam
 1731,Hướng Thọ Phú,Xã,8,114,huong tho phu,xa huong tho phu
@@ -2104,18 +2104,18 @@
 2103,Tân Hòa,Xã,10,144,tan hoa,xa tan hoa
 2104,Tân Phước,Phường,10,144,tan phuoc,phuong tan phuoc
 2105,Tóc Tiên,Xã,10,144,toc tien,xa toc tien
-2106,"1",Phường,10,145,"1",phuong 1
-2107,"10",Phường,10,145,"10",phuong 10
-2108,"11",Phường,10,145,"11",phuong 11
-2109,"12",Phường,10,145,"12",phuong 12
-2110,"2",Phường,10,145,"2",phuong 2
-2111,"3",Phường,10,145,"3",phuong 3
-2112,"4",Phường,10,145,"4",phuong 4
-2113,"5",Phường,10,145,"5",phuong 5
-2114,"6",Phường,10,145,"6",phuong 6
-2115,"7",Phường,10,145,"7",phuong 7
-2116,"8",Phường,10,145,"8",phuong 8
-2117,"9",Phường,10,145,"9",phuong 9
+2106,1,Phường,10,145,1,phuong 1
+2107,10,Phường,10,145,10,phuong 10
+2108,11,Phường,10,145,11,phuong 11
+2109,12,Phường,10,145,12,phuong 12
+2110,2,Phường,10,145,2,phuong 2
+2111,3,Phường,10,145,3,phuong 3
+2112,4,Phường,10,145,4,phuong 4
+2113,5,Phường,10,145,5,phuong 5
+2114,6,Phường,10,145,6,phuong 6
+2115,7,Phường,10,145,7,phuong 7
+2116,8,Phường,10,145,8,phuong 8
+2117,9,Phường,10,145,9,phuong 9
 2118,Long Sơn,Xã,10,145,long son,xa long son
 2119,Nguyễn An Ninh,Phường,10,145,nguyen an ninh,phuong nguyen an ninh
 2120,Rạch Dừa,Phường,10,145,rach dua,phuong rach dua
@@ -2333,7 +2333,7 @@
 2332,Trường Xuân A,Xã,12,162,truong xuan a,xa truong xuan a
 2333,Trường Xuân B,Xã,12,162,truong xuan b,xa truong xuan b
 2334,Xuân Thắng,Xã,12,162,xuan thang,xa xuan thang
-2335,"8",Phường,12,163,"8",phuong 8
+2335,8,Phường,12,163,8,phuong 8
 2336,An Thới,Phường,12,163,an thoi,phuong an thoi
 2337,An Thới,Phường,12,163,an thoi,phuong an thoi
 2338,Bình Thủy,Phường,12,163,binh thuy,phuong binh thuy
@@ -2552,8 +2552,8 @@
 2551,Lộc Thành,Xã,14,181,loc thanh,xa loc thanh
 2552,Tân Hương,Xã,14,181,tan huong,xa tan huong
 2553,Tân Lạc,Xã,14,181,tan lac,xa tan lac
-2554,"1",Phường,14,182,"1",phuong 1
-2555,"2",Phường,14,182,"2",phuong 2
+2554,1,Phường,14,182,1,phuong 1
+2555,2,Phường,14,182,2,phuong 2
 2556,B'Lao,Phường,14,182,b'lao,phuong b'lao
 2557,Đại Lào,Xã,14,182,dai lao,xa dai lao
 2558,Đam Bri,Xã,14,182,dam bri,xa dam bri
@@ -2585,18 +2585,18 @@
 2584,Ma Đa Guôi,Thị trấn,14,184,ma da guoi,thi tran ma da guoi
 2585,Ma Đa Guôi,Xã,14,184,ma da guoi,xa ma da guoi
 2586,Phước Lộc,Xã,14,184,phuoc loc,xa phuoc loc
-2587,"1",Phường,14,185,"1",phuong 1
-2588,"10",Phường,14,185,"10",phuong 10
-2589,"11",Phường,14,185,"11",phuong 11
-2590,"12",Phường,14,185,"12",phuong 12
-2591,"2",Phường,14,185,"2",phuong 2
-2592,"3",Phường,14,185,"3",phuong 3
-2593,"4",Phường,14,185,"4",phuong 4
-2594,"5",Phường,14,185,"5",phuong 5
-2595,"6",Phường,14,185,"6",phuong 6
-2596,"7",Phường,14,185,"7",phuong 7
-2597,"8",Phường,14,185,"8",phuong 8
-2598,"9",Phường,14,185,"9",phuong 9
+2587,1,Phường,14,185,1,phuong 1
+2588,10,Phường,14,185,10,phuong 10
+2589,11,Phường,14,185,11,phuong 11
+2590,12,Phường,14,185,12,phuong 12
+2591,2,Phường,14,185,2,phuong 2
+2592,3,Phường,14,185,3,phuong 3
+2593,4,Phường,14,185,4,phuong 4
+2594,5,Phường,14,185,5,phuong 5
+2595,6,Phường,14,185,6,phuong 6
+2596,7,Phường,14,185,7,phuong 7
+2597,8,Phường,14,185,8,phuong 8
+2598,9,Phường,14,185,9,phuong 9
 2599,Tà Nung,Xã,14,185,ta nung,xa ta nung
 2600,Trạm Hành,Xã,14,185,tram hanh,xa tram hanh
 2601,Xuân Thọ,Xã,14,185,xuan tho,xa xuan tho
@@ -4305,7 +4305,7 @@
 4304,Tây Hiếu,Xã,20,282,tay hieu,xa tay hieu
 4305,Cát Văn,Xã,20,283,cat van,xa cat van
 4306,Đồng Văn,Xã,20,283,dong van,xa dong van
-4307,Dùng,Thị trấn,20,283,dung,thi tran dung
+4307,Dùng,Thị trấn,20,283,thi tran dung,thi tran dung
 4308,Hạnh Lâm,Xã,20,283,hanh lam,xa hanh lam
 4309,Ngọc Lâm,Xã,20,283,ngoc lam,xa ngoc lam
 4310,Ngọc Sơn,Xã,20,283,ngoc son,xa ngoc son
@@ -5381,11 +5381,11 @@
 5380,Tân Thanh,Xã,26,348,tan thanh,xa tan thanh
 5381,Thiện Trí,Xã,26,348,thien tri,xa thien tri
 5382,Thiện Trung,Xã,26,348,thien trung,xa thien trung
-5383,"1",Phường,26,349,"1",phuong 1
-5384,"2",Phường,26,349,"2",phuong 2
-5385,"3",Phường,26,349,"3",phuong 3
-5386,"4",Phường,26,349,"4",phuong 4
-5387,"5",Phường,26,349,"5",phuong 5
+5383,1,Phường,26,349,1,phuong 1
+5384,2,Phường,26,349,2,phuong 2
+5385,3,Phường,26,349,3,phuong 3
+5386,4,Phường,26,349,4,phuong 4
+5387,5,Phường,26,349,5,phuong 5
 5388,Long Khánh,Xã,26,349,long khanh,xa long khanh
 5389,Mỹ Hạnh Đông,Xã,26,349,my hanh dong,xa my hanh dong
 5390,Mỹ Hạnh Tây,Xã,26,349,my hanh tay,xa my hanh tay
@@ -5439,11 +5439,11 @@
 5438,Thanh Bình,Xã,26,351,thanh binh,xa thanh binh
 5439,Trung Hòa,Xã,26,351,trung hoa,xa trung hoa
 5440,Xuân Đông,Xã,26,351,xuan dong,xa xuan dong
-5441,"1",Phường,26,352,"1",phuong 1
-5442,"2",Phường,26,352,"2",phuong 2
-5443,"3",Phường,26,352,"3",phuong 3
-5444,"4",Phường,26,352,"4",phuong 4
-5445,"5",Phường,26,352,"5",phuong 5
+5441,1,Phường,26,352,1,phuong 1
+5442,2,Phường,26,352,2,phuong 2
+5443,3,Phường,26,352,3,phuong 3
+5444,4,Phường,26,352,4,phuong 4
+5445,5,Phường,26,352,5,phuong 5
 5446,Bình Đông,Xã,26,352,binh dong,xa binh dong
 5447,Bình Xuân,Xã,26,352,binh xuan,xa binh xuan
 5448,Long Chánh,Xã,26,352,long chanh,xa long chanh
@@ -5499,16 +5499,16 @@
 5498,Tân Hội,Xã,26,355,tan hoi,xa tan hoi
 5499,Tân Phong,Xã,26,355,tan phong,xa tan phong
 5500,Thạnh Lộc,Xã,26,355,thanh loc,xa thanh loc
-5501,"1",Phường,26,356,"1",phuong 1
-5502,"10",Phường,26,356,"10",phuong 10
-5503,"2",Phường,26,356,"2",phuong 2
-5504,"3",Phường,26,356,"3",phuong 3
-5505,"4",Phường,26,356,"4",phuong 4
-5506,"5",Phường,26,356,"5",phuong 5
-5507,"6",Phường,26,356,"6",phuong 6
-5508,"7",Phường,26,356,"7",phuong 7
-5509,"8",Phường,26,356,"8",phuong 8
-5510,"9",Phường,26,356,"9",phuong 9
+5501,1,Phường,26,356,1,phuong 1
+5502,10,Phường,26,356,10,phuong 10
+5503,2,Phường,26,356,2,phuong 2
+5504,3,Phường,26,356,3,phuong 3
+5505,4,Phường,26,356,4,phuong 4
+5506,5,Phường,26,356,5,phuong 5
+5507,6,Phường,26,356,6,phuong 6
+5508,7,Phường,26,356,7,phuong 7
+5509,8,Phường,26,356,8,phuong 8
+5510,9,Phường,26,356,9,phuong 9
 5511,Đạo Thạnh,Xã,26,356,dao thanh,xa dao thanh
 5512,Mỹ Phong,Xã,26,356,my phong,xa my phong
 5513,Phước Thạnh,Xã,26,356,phuoc thanh,xa phuoc thanh
@@ -6633,10 +6633,10 @@
 6632,Tân Phú,Xã,32,414,tan phu,xa tan phu
 6633,Tân Thành,Xã,32,414,tan thanh,xa tan thanh
 6634,Thạnh Đông,Xã,32,414,thanh dong,xa thanh dong
-6635,"1",Phường,32,415,"1",phuong 1
-6636,"2",Phường,32,415,"2",phuong 2
-6637,"3",Phường,32,415,"3",phuong 3
-6638,"4",Phường,32,415,"4",phuong 4
+6635,1,Phường,32,415,1,phuong 1
+6636,2,Phường,32,415,2,phuong 2
+6637,3,Phường,32,415,3,phuong 3
+6638,4,Phường,32,415,4,phuong 4
 6639,Bình Minh,Xã,32,415,binh minh,xa binh minh
 6640,Hiệp Ninh,Phường,32,415,hiep ninh,phuong hiep ninh
 6641,Ninh Sơn,Xã,32,415,ninh son,xa ninh son
@@ -7443,14 +7443,14 @@
 7442,Tân Xuân,Xã,37,459,tan xuan,xa tan xuan
 7443,Vĩnh An,Xã,37,459,vinh an,xa vinh an
 7444,Vĩnh Hòa,Xã,37,459,vinh hoa,xa vinh hoa
-7445,"1",Phường,37,460,"1",phuong 1
-7446,"2",Phường,37,460,"2",phuong 2
-7447,"3",Phường,37,460,"3",phuong 3
-7448,"4",Phường,37,460,"4",phuong 4
-7449,"5",Phường,37,460,"5",phuong 5
-7450,"6",Phường,37,460,"6",phuong 6
-7451,"7",Phường,37,460,"7",phuong 7
-7452,"8",Phường,37,460,"8",phuong 8
+7445,1,Phường,37,460,1,phuong 1
+7446,2,Phường,37,460,2,phuong 2
+7447,3,Phường,37,460,3,phuong 3
+7448,4,Phường,37,460,4,phuong 4
+7449,5,Phường,37,460,5,phuong 5
+7450,6,Phường,37,460,6,phuong 6
+7451,7,Phường,37,460,7,phuong 7
+7452,8,Phường,37,460,8,phuong 8
 7453,Bình Phú,Xã,37,460,binh phu,xa binh phu
 7454,Mỹ Thành,Xã,37,460,my thanh,xa my thanh
 7455,Mỹ Thạnh An,Xã,37,460,my thanh an,xa my thanh an
@@ -7656,15 +7656,15 @@
 7655,Quảng Tâm,Xã,38,475,quang tam,xa quang tam
 7656,Quảng Tân,Xã,38,475,quang tan,xa quang tan
 7657,Quảng Trực,Xã,38,475,quang truc,xa quang truc
-7658,"1",Phường,39,476,"1",phuong 1
-7659,"2",Phường,39,476,"2",phuong 2
-7660,"3",Phường,39,476,"3",phuong 3
-7661,"4",Phường,39,476,"4",phuong 4
-7662,"5",Phường,39,476,"5",phuong 5
-7663,"6",Phường,39,476,"6",phuong 6
-7664,"7",Phường,39,476,"7",phuong 7
-7665,"8",Phường,39,476,"8",phuong 8
-7666,"9",Phường,39,476,"9",phuong 9
+7658,1,Phường,39,476,1,phuong 1
+7659,2,Phường,39,476,2,phuong 2
+7660,3,Phường,39,476,3,phuong 3
+7661,4,Phường,39,476,4,phuong 4
+7662,5,Phường,39,476,5,phuong 5
+7663,6,Phường,39,476,6,phuong 6
+7664,7,Phường,39,476,7,phuong 7
+7665,8,Phường,39,476,8,phuong 8
+7666,9,Phường,39,476,9,phuong 9
 7667,An Xuyên,Xã,39,476,an xuyen,xa an xuyen
 7668,Định Bình,Xã,39,476,dinh binh,xa dinh binh
 7669,Hòa Tân,Xã,39,476,hoa tan,xa hoa tan
@@ -7836,13 +7836,13 @@
 7835,Trà Ôn,Thị trấn,40,490,tra on,thi tran tra on
 7836,Vĩnh Xuân,Xã,40,490,vinh xuan,xa vinh xuan
 7837,Xuân Hiệp,Xã,40,490,xuan hiep,xa xuan hiep
-7838,"1",Phường,40,491,"1",phuong 1
-7839,"2",Phường,40,491,"2",phuong 2
-7840,"3",Phường,40,491,"3",phuong 3
-7841,"4",Phường,40,491,"4",phuong 4
-7842,"5",Phường,40,491,"5",phuong 5
-7843,"8",Phường,40,491,"8",phuong 8
-7844,"9",Phường,40,491,"9",phuong 9
+7838,1,Phường,40,491,1,phuong 1
+7839,2,Phường,40,491,2,phuong 2
+7840,3,Phường,40,491,3,phuong 3
+7841,4,Phường,40,491,4,phuong 4
+7842,5,Phường,40,491,5,phuong 5
+7843,8,Phường,40,491,8,phuong 8
+7844,9,Phường,40,491,9,phuong 9
 7845,Tân Hòa,Xã,40,491,tan hoa,xa tan hoa
 7846,Tân Hội,Xã,40,491,tan hoi,xa tan hoi
 7847,Tân Ngãi,Xã,40,491,tan ngai,xa tan ngai
@@ -8451,15 +8451,15 @@
 8450,An Thọ,Xã,44,528,an tho,xa an tho
 8451,An Xuân,Xã,44,528,an xuan,xa an xuan
 8452,Chí Thạnh,Thị trấn,44,528,chi thanh,thi tran chi thanh
-8453,"1",Phường,44,529,"1",phuong 1
-8454,"2",Phường,44,529,"2",phuong 2
-8455,"3",Phường,44,529,"3",phuong 3
-8456,"4",Phường,44,529,"4",phuong 4
-8457,"5",Phường,44,529,"5",phuong 5
-8458,"6",Phường,44,529,"6",phuong 6
-8459,"7",Phường,44,529,"7",phuong 7
-8460,"8",Phường,44,529,"8",phuong 8
-8461,"9",Phường,44,529,"9",phuong 9
+8453,1,Phường,44,529,1,phuong 1
+8454,2,Phường,44,529,2,phuong 2
+8455,3,Phường,44,529,3,phuong 3
+8456,4,Phường,44,529,4,phuong 4
+8457,5,Phường,44,529,5,phuong 5
+8458,6,Phường,44,529,6,phuong 6
+8459,7,Phường,44,529,7,phuong 7
+8460,8,Phường,44,529,8,phuong 8
+8461,9,Phường,44,529,9,phuong 9
 8462,An Phú,Xã,44,529,an phu,xa an phu
 8463,Bình Kiến,Xã,44,529,binh kien,xa binh kien
 8464,Bình Ngọc,Xã,44,529,binh ngoc,xa binh ngoc
@@ -8849,12 +8849,12 @@
 8848,Hương Thọ,Xã,46,547,huong tho,xa huong tho
 8849,Sơn Thọ,Xã,46,547,son tho,xa son tho
 8850,Vũ Quang,Thị trấn,46,547,vu quang,thi tran vu quang
-8851,"1",Phường,47,548,"1",phuong 1
-8852,"11",Phường,47,548,"11",phuong 11
-8853,"2",Phường,47,548,"2",phuong 2
-8854,"3",Phường,47,548,"3",phuong 3
-8855,"4",Phường,47,548,"4",phuong 4
-8856,"6",Phường,47,548,"6",phuong 6
+8851,1,Phường,47,548,1,phuong 1
+8852,11,Phường,47,548,11,phuong 11
+8853,2,Phường,47,548,2,phuong 2
+8854,3,Phường,47,548,3,phuong 3
+8855,4,Phường,47,548,4,phuong 4
+8856,6,Phường,47,548,6,phuong 6
 8857,Hoà An,Xã,47,548,hoa an,xa hoa an
 8858,Hoà Thuận,Phường,47,548,hoa thuan,phuong hoa thuan
 8859,Mỹ Ngãi,Xã,47,548,my ngai,xa my ngai
@@ -8938,10 +8938,10 @@
 8937,Tân Khánh Trung,Xã,47,554,tan khanh trung,xa tan khanh trung
 8938,Tân Mỹ,Xã,47,554,tan my,xa tan my
 8939,Vĩnh Thạnh,Xã,47,554,vinh thanh,xa vinh thanh
-8940,"1",Phường,47,555,"1",phuong 1
-8941,"2",Phường,47,555,"2",phuong 2
-8942,"3",Phường,47,555,"3",phuong 3
-8943,"4",Phường,47,555,"4",phuong 4
+8940,1,Phường,47,555,1,phuong 1
+8941,2,Phường,47,555,2,phuong 2
+8942,3,Phường,47,555,3,phuong 3
+8943,4,Phường,47,555,4,phuong 4
 8944,An Hòa,Phường,47,555,an hoa,phuong an hoa
 8945,Tân Khánh Đông,Xã,47,555,tan khanh dong,xa tan khanh dong
 8946,Tân Phú Đông,Xã,47,555,tan phu dong,xa tan phu dong
@@ -9055,24 +9055,24 @@
 9054,Tham Đôn,Xã,48,565,tham don,xa tham don
 9055,Thạnh Phú,Xã,48,565,thanh phu,xa thanh phu
 9056,Thạnh Quới,Xã,48,565,thanh quoi,xa thanh quoi
-9057,"1",Phường,48,566,"1",phuong 1
-9058,"2",Phường,48,566,"2",phuong 2
-9059,"3",Phường,48,566,"3",phuong 3
+9057,1,Phường,48,566,1,phuong 1
+9058,2,Phường,48,566,2,phuong 2
+9059,3,Phường,48,566,3,phuong 3
 9060,Long Bình,Xã,48,566,long binh,xa long binh
 9061,Mỹ Bình,Xã,48,566,my binh,xa my binh
 9062,Mỹ Quới,Xã,48,566,my quoi,xa my quoi
 9063,Tân Long,Xã,48,566,tan long,xa tan long
 9064,Vĩnh Quới,Xã,48,566,vinh quoi,xa vinh quoi
-9065,"1",Phường,48,567,"1",phuong 1
-9066,"10",Phường,48,567,"10",phuong 10
-9067,"2",Phường,48,567,"2",phuong 2
-9068,"3",Phường,48,567,"3",phuong 3
-9069,"4",Phường,48,567,"4",phuong 4
-9070,"5",Phường,48,567,"5",phuong 5
-9071,"6",Phường,48,567,"6",phuong 6
-9072,"7",Phường,48,567,"7",phuong 7
-9073,"8",Phường,48,567,"8",phuong 8
-9074,"9",Phường,48,567,"9",phuong 9
+9065,1,Phường,48,567,1,phuong 1
+9066,10,Phường,48,567,10,phuong 10
+9067,2,Phường,48,567,2,phuong 2
+9068,3,Phường,48,567,3,phuong 3
+9069,4,Phường,48,567,4,phuong 4
+9070,5,Phường,48,567,5,phuong 5
+9071,6,Phường,48,567,6,phuong 6
+9072,7,Phường,48,567,7,phuong 7
+9073,8,Phường,48,567,8,phuong 8
+9074,9,Phường,48,567,9,phuong 9
 9075,Phú Tân,Xã,48,567,phu tan,xa phu tan
 9076,Châu Hưng,Xã,48,568,chau hung,xa chau hung
 9077,Hưng Lợi,Thị trấn,48,568,hung loi,thi tran hung loi
@@ -9096,8 +9096,8 @@
 9095,Viên An,Xã,48,569,vien an,xa vien an
 9096,Viên Bình,Xã,48,569,vien binh,xa vien binh
 9097,Xã Lịch Hội Thượng,Xã,48,569,xa lich hoi thuong,xa xa lich hoi thuong
-9098,"1",Phường,48,570,"1",phuong 1
-9099,"2",Phường,48,570,"2",phuong 2
+9098,1,Phường,48,570,1,phuong 1
+9099,2,Phường,48,570,2,phuong 2
 9100,Hòa Đông,Xã,48,570,hoa dong,xa hoa dong
 9101,Khánh Hòa,Phường,48,570,khanh hoa,phuong khanh hoa
 9102,Lạc Hòa,Xã,48,570,lac hoa,xa lac hoa
@@ -9393,11 +9393,11 @@
 9392,Tà Long,Xã,51,590,ta long,xa ta long
 9393,Tà Rụt,Xã,51,590,ta rut,xa ta rut
 9394,Triệu Nguyên,Xã,51,590,trieu nguyen,xa trieu nguyen
-9395,"1",Phường,51,592,"1",phuong 1
-9396,"2",Phường,51,592,"2",phuong 2
-9397,"3",Phường,51,592,"3",phuong 3
-9398,"4",Phường,51,592,"4",phuong 4
-9399,"5",Phường,51,592,"5",phuong 5
+9395,1,Phường,51,592,1,phuong 1
+9396,2,Phường,51,592,2,phuong 2
+9397,3,Phường,51,592,3,phuong 3
+9398,4,Phường,51,592,4,phuong 4
+9399,5,Phường,51,592,5,phuong 5
 9400,Đông Giang,Phường,51,592,dong giang,phuong dong giang
 9401,Đông Lễ,Phường,51,592,dong le,phuong dong le
 9402,Đông Lương,Phường,51,592,dong luong,phuong dong luong
@@ -9465,9 +9465,9 @@
 9464,Thanh,Xã,51,595,thanh,xa thanh
 9465,Thuận,Xã,51,595,thuan,xa thuan
 9466,Xy,Xã,51,595,xy,xa xy
-9467,"1",Phường,51,596,"1",phuong 1
-9468,"2",Phường,51,596,"2",phuong 2
-9469,"3",Phường,51,596,"3",phuong 3
+9467,1,Phường,51,596,1,phuong 1
+9468,2,Phường,51,596,2,phuong 2
+9469,3,Phường,51,596,3,phuong 3
 9470,An Đôn,Phường,51,596,an don,phuong an don
 9471,Hải Lệ,Xã,51,596,hai le,xa hai le
 9472,Ái Tử,Thị trấn,51,597,ai tu,thi tran ai tu
@@ -9565,8 +9565,8 @@
 9564,Phước Hảo,Xã,52,602,phuoc hao,xa phuoc hao
 9565,Song Lộc,Xã,52,602,song loc,xa song loc
 9566,Thanh Mỹ,Xã,52,602,thanh my,xa thanh my
-9567,"1",Phường,52,603,"1",phuong 1
-9568,"2",Phường,52,603,"2",phuong 2
+9567,1,Phường,52,603,1,phuong 1
+9568,2,Phường,52,603,2,phuong 2
 9569,Dân Thành,Xã,52,603,dan thanh,xa dan thanh
 9570,Đông Hải,Xã,52,603,dong hai,xa dong hai
 9571,Duyên Hải,Thị trấn,52,603,duyen hai,thi tran duyen hai
@@ -9608,22 +9608,22 @@
 9607,Tập Sơn,Xã,52,605,tap son,xa tap son
 9608,Thanh Sơn,Xã,52,605,thanh son,xa thanh son
 9609,Trà Cú,Thị trấn,52,605,tra cu,thi tran tra cu
-9610,"1",Phường,52,606,"1",phuong 1
-9611,"1",Phường,52,606,"1",phuong 1
-9612,"2",Phường,52,606,"2",phuong 2
-9613,"2",Phường,52,606,"2",phuong 2
-9614,"3",Phường,52,606,"3",phuong 3
-9615,"3",Phường,52,606,"3",phuong 3
-9616,"4",Phường,52,606,"4",phuong 4
-9617,"4",Phường,52,606,"4",phuong 4
-9618,"5",Phường,52,606,"5",phuong 5
-9619,"5",Phường,52,606,"5",phuong 5
-9620,"6",Phường,52,606,"6",phuong 6
-9621,"6",Phường,52,606,"6",phuong 6
-9622,"7",Phường,52,606,"7",phuong 7
-9623,"8",Phường,52,606,"8",phuong 8
-9624,"8",Phường,52,606,"8",phuong 8
-9625,"9",Phường,52,606,"9",phuong 9
+9610,1,Phường,52,606,1,phuong 1
+9611,1,Phường,52,606,1,phuong 1
+9612,2,Phường,52,606,2,phuong 2
+9613,2,Phường,52,606,2,phuong 2
+9614,3,Phường,52,606,3,phuong 3
+9615,3,Phường,52,606,3,phuong 3
+9616,4,Phường,52,606,4,phuong 4
+9617,4,Phường,52,606,4,phuong 4
+9618,5,Phường,52,606,5,phuong 5
+9619,5,Phường,52,606,5,phuong 5
+9620,6,Phường,52,606,6,phuong 6
+9621,6,Phường,52,606,6,phuong 6
+9622,7,Phường,52,606,7,phuong 7
+9623,8,Phường,52,606,8,phuong 8
+9624,8,Phường,52,606,8,phuong 8
+9625,9,Phường,52,606,9,phuong 9
 9626,Long Đức,Xã,52,606,long duc,xa long duc
 9627,Đông Phú,Xã,53,607,dong phu,xa dong phu
 9628,Đông Phước,Xã,53,607,dong phuoc,xa dong phuoc
@@ -9680,11 +9680,11 @@
 9679,Tân Long,Xã,53,611,tan long,xa tan long
 9680,Tân Phước Hưng,Xã,53,611,tan phuoc hung,xa tan phuoc hung
 9681,Thạnh Hòa,Xã,53,611,thanh hoa,xa thanh hoa
-9682,"1",Phường,53,612,"1",phuong 1
-9683,"3",Phường,53,612,"3",phuong 3
-9684,"4",Phường,53,612,"4",phuong 4
-9685,"5",Phường,53,612,"5",phuong 5
-9686,"7",Phường,53,612,"7",phuong 7
+9682,1,Phường,53,612,1,phuong 1
+9683,3,Phường,53,612,3,phuong 3
+9684,4,Phường,53,612,4,phuong 4
+9685,5,Phường,53,612,5,phuong 5
+9686,7,Phường,53,612,7,phuong 7
 9687,Hoả Lựu,Xã,53,612,hoa luu,xa hoa luu
 9688,Hoả Tiến,Xã,53,612,hoa tien,xa hoa tien
 9689,Tân Tiến,Xã,53,612,tan tien,xa tan tien
@@ -9903,13 +9903,13 @@
 9902,Viêng Lán,Xã,54,625,vieng lan,xa vieng lan
 9903,Yên Châu,Thị trấn,54,625,yen chau,thi tran yen chau
 9904,Yên Sơn,Xã,54,625,yen son,xa yen son
-9905,"1",Phường,55,626,"1",phuong 1
-9906,"2",Phường,55,626,"2",phuong 2
-9907,"3",Phường,55,626,"3",phuong 3
-9908,"4",Phường,55,626,"4",phuong 4
-9909,"5",Phường,55,626,"5",phuong 5
-9910,"7",Phường,55,626,"7",phuong 7
-9911,"8",Phường,55,626,"8",phuong 8
+9905,1,Phường,55,626,1,phuong 1
+9906,2,Phường,55,626,2,phuong 2
+9907,3,Phường,55,626,3,phuong 3
+9908,4,Phường,55,626,4,phuong 4
+9909,5,Phường,55,626,5,phuong 5
+9910,7,Phường,55,626,7,phuong 7
+9911,8,Phường,55,626,8,phuong 8
 9912,Hiệp Thành,Xã,55,626,hiep thanh,xa hiep thanh
 9913,Nhà Mát,Phường,55,626,nha mat,phuong nha mat
 9914,Nhà Mát,Phường,55,626,nha mat,phuong nha mat
