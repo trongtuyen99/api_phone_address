@@ -5,7 +5,7 @@ from unidecode import unidecode
 
 class Extractor(object):
     def __init__(self):
-        self.phone_pattern = r"[\d+\s*]{9,}"
+        self.phone_pattern = r"(\d{3}[-\.\s]??\d{3}[-\.\s]??\d{4}|\(\d{3}\)\s*\d{3}[-\.\s]??\d{4}|\d{3}[-\.\s]??\d{4})"
         self.addr_sign_pattern = "(xã|ấp|phố|phường|đường|thôn|thị trấn|khu công nghiệp|quận|huyện|tỉnh|thành phố|phố)"
         self.__init_complex_pattern__()
 
@@ -13,28 +13,28 @@ class Extractor(object):
         """
         extract phone number and address
         :param message: string, input message
-        :return: {"phone":str, "address":str} form message
+        :return: {
+                  "set_attributes": {
+                    "ship_address": "some value",
+                    "phone_number": "0xxx"
+                  }
+                }
+                form message
         """
         result = {
-                    "phone": "",
-                    "address": ""
+                  "set_attributes": {
+                    "ship_address": "",
+                    "phone_number": ""
                   }
-        message_no_sign = unidecode(message).lower().replace('\n', ' NEW_LINE ')
-        message_no_sign = re.sub(r"[^\w]", " ", message_no_sign)
-        message_no_sign = re.sub(r"\s+", " ", message_no_sign)
-        message_no_sign_copy = message_no_sign
-
-        phone_number = re.findall(self.phone_pattern, message_no_sign)
-        if len(phone_number) > 0:
-            for phone in phone_number:
-                phone_normalize = phone.replace(' ', '')
-                if 9 < len(phone_normalize) < 12:
-                    result['phone'] = phone_normalize
-                elif len(phone_normalize) == 9 and phone_normalize[0] != '0':  # todo: test bug
-                    result['phone'] = '0' + phone_normalize
+                }
+        phone_number = re.findall(self.phone_pattern, message)
+        result["set_attributes"]['phone_number'] = phone_number
         if len(phone_number) > 0:
             for phone in phone_number:
                 message = message.replace(phone, " ")
+        message = re.sub(r"\s+", " ", message)
+        message_no_sign = unidecode(message).lower()
+        message_no_sign_copy = message_no_sign
 
         score = 0
 
@@ -88,8 +88,8 @@ class Extractor(object):
             flag_match_province = 1
         score += flag_match_province
         score_extra = len(message_no_sign) - len(message_no_sign_copy)
-        if score >= 2 and score_extra > 6:
-            result["address"] = message
+        if score > 2 and score_extra > 6:
+            result["set_attributes"]["ship_address"] = message
         return result
 
     def __init_complex_pattern__(self):
@@ -123,12 +123,10 @@ class Extractor(object):
 
 
 if __name__ == "__main__":
-    test_message = "Là 2 con dao+ 2 vỏ đúng k"
+    test_message = "Xa chi cong.tuy phong.binh thuan,gui ra"
     extractor = Extractor()
+    df_test = pd.read_excel('data/Địa-chỉ.xlsx')
     result = extractor.process(test_message)
-    test_excel = True
-    if test_excel:
-        df_test = pd.read_excel('data/Địa-chỉ.xlsx')
-        df_test['api_result'] = df_test['Địa chỉ'].map(lambda x: extractor.process(x))
-        df_test.to_csv('data/df_test_result.csv', index=False, encoding='utf-8-sig')
+    df_test['api_result'] = df_test['Địa chỉ'].map(lambda x: extractor.process(x))
+    df_test.to_csv('data/df_test_result.csv', index=False, encoding='utf-8-sig')
     print(result)
