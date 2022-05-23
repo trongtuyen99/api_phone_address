@@ -1,4 +1,4 @@
-﻿"id","_name","_code","sync_words"
+﻿id,_name,_code,sync_words
 1,Hồ Chí Minh,SG,"ho chi minh,hcm"
 2,Hà Nội,HN,"ha noi,hn"
 3,Đà Nẵng,DDN,"da nang,dn"
@@ -20,7 +20,7 @@
 19,Thanh Hóa,TH,thanh hoa
 20,Nghệ An,NA,nghe an
 21,Hải Dương,HD,hai duong
-22,Gia Lai,GL,gia lai
+22,Gia Lai,GL,"gia lai,gialai"
 23,Bình Phước,BP,binh phuoc
 24,Hưng Yên,HY,hung yen
 25,Bình Định,BDD,binh dinh
