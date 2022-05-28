@@ -17,27 +17,30 @@ class Extractor(object):
         """
         result = {
             "set_attributes": {
-                "ship_address": "",
-                "phone_number": ""
+                "ship_address": "null",
+                "phone_number": "null"
             }
         }
         message_no_sign = unidecode(message).lower().replace('\n', ' NEW_LINE ')
         message_no_sign = re.sub(r"[^\w]", " ", message_no_sign)
         message_no_sign = re.sub(r"\s+", " ", message_no_sign)
+        message_no_sign = " " + message_no_sign + " "
         message_no_sign_copy = message_no_sign
 
         phone_number = re.findall(self.phone_pattern, message_no_sign)
+        has_phone = False
         if len(phone_number) > 0:
             for phone in phone_number:
                 phone_normalize = phone.replace(' ', '')
                 if 9 < len(phone_normalize) < 12:
                     result["set_attributes"]['phone_number'] = phone_normalize
+                    has_phone = True
                 elif len(phone_normalize) == 9 and phone_normalize[0] != '0':  # todo: test bug
                     result["set_attributes"]['phone_number'] = '0' + phone_normalize
-        if len(phone_number) > 0:
+                    has_phone = True
+        if len(phone_number) > 0 and has_phone:
             for phone in phone_number:
-                message = message.replace(phone, " ")
-
+                message = message.replace(phone.strip(), " ")
         score = 0
 
         if re.search(self.addr_sign_pattern, message):
@@ -109,23 +112,23 @@ class Extractor(object):
         self.pattern_detail = df_addr_detail.query('is_active == 1').pattern.tolist()
 
         pattern_ward = df_ward.sync_words.tolist()
-        self.pattern_ward = "|".join([f"{syn_word.strip()}" for syn_word in pattern_ward
-                                      if len(syn_word) > 3]).replace(',', "|")
+        self.pattern_ward = "|".join([f" {syn_word.strip()} " for syn_word in pattern_ward
+                                      if len(syn_word) > 3]).replace(',', " | ")
         pattern_ward_with_prefix = df_ward.priority_sync_words.tolist()
-        self.pattern_ward_with_prefix = "|".join([f"{syn_word.strip()}" for syn_word in pattern_ward_with_prefix
-                                                  if len(syn_word) > 3]).replace(',', "|")
+        self.pattern_ward_with_prefix = "|".join([f" {syn_word.strip()} " for syn_word in pattern_ward_with_prefix
+                                                  if len(syn_word) > 3]).replace(',', " | ")
 
         pattern_district_with_prefix = df_district.sync_words.tolist()
-        self.pattern_district_with_prefix = "|".join([f"{syn_word.strip()}" for syn_word in pattern_district_with_prefix
-                                                      if len(syn_word) > 3]).replace(',', "|")
+        self.pattern_district_with_prefix = "|".join([f" {syn_word.strip()} " for syn_word in pattern_district_with_prefix
+                                                      if len(syn_word) > 3]).replace(',', " | ")
 
         pattern_province = df_province.sync_words.tolist()
-        self.pattern_province = "|".join([f"{syn_word.strip()}" for syn_word in pattern_province
-                                          if len(syn_word) > 3]).replace(',', "|")
+        self.pattern_province = "|".join([f" {syn_word.strip()} " for syn_word in pattern_province
+                                          if len(syn_word) > 3]).replace(',', " | ")
 
 
 if __name__ == "__main__":
-    test_message = "địa chỉ 42/3 lí nam đé gialai pleiku shop"
+    test_message = "Dia chj bunkbu xa hoa khah , tp buon ma thuot đaklak , sdt 0369333915 , ten bia"
     extractor = Extractor()
     result = extractor.process(test_message)
     test_excel = True
