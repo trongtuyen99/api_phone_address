@@ -8,7 +8,7 @@ logging.basicConfig(
                            "%(message)s",
                     datefmt="%H:%M:%S",
                     handlers=[logging.FileHandler(LOG_FILE, 'a', 'utf-8')],
-                    level=logging.WARNING)
+                    level=logging.INFO)
 
 logger = logging.getLogger("main_logger")
 app = Flask(__name__)
